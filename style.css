@@ -6,6 +6,15 @@
     --texto-fundo: rgba(58,55,94,0.3);
 }
 
-h1{
-    font-family: "Kode Mono", monospace;
+body{
+    background-color: var(--cor-de-fundo);
+    color: white;
 }
+
+.botao{
+    background-color: var(--botao-inativado);
+    color: white;font-family: "Kode Mono", monospace;
+}
+
+
+    
